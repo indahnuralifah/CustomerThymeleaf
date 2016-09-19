@@ -1,0 +1,10 @@
+/home/indahnuralifah/Documents/customer-springboot/src/main/java/customer/springboot/domain/Permission.java
+/home/indahnuralifah/Documents/customer-springboot/src/main/java/customer/springboot/domain/Customer.java
+/home/indahnuralifah/Documents/customer-springboot/src/main/java/customer/springboot/service/CustomerDao.java
+/home/indahnuralifah/Documents/customer-springboot/src/main/java/customer/springboot/controller/CustomerController.java
+/home/indahnuralifah/Documents/customer-springboot/src/main/java/customer/springboot/domain/Role.java
+/home/indahnuralifah/Documents/customer-springboot/src/main/java/customer/springboot/domain/User.java
+/home/indahnuralifah/Documents/customer-springboot/src/main/java/customer/springboot/controller/UserController.java
+/home/indahnuralifah/Documents/customer-springboot/src/main/java/customer/springboot/App.java
+/home/indahnuralifah/Documents/customer-springboot/src/main/java/customer/springboot/service/UserDao.java
+/home/indahnuralifah/Documents/customer-springboot/src/main/java/customer/springboot/config/SecurityConfig.java

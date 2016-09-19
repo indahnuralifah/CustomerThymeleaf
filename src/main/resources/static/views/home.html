@@ -1,0 +1,32 @@
+<br><br><br><br><br><br>
+
+        <div class="panel">
+	<div class="heading">
+            <span class="icon mif-loop2" ng-click="tampilkanData()" 
+                  style="cursor: pointer;"></span>
+		<span class="title">List Storeshoes</span>
+                
+                
+	</div>
+	<div class="content">
+            <table style="width: 100%;" class="table">
+			<thead>
+				
+                                <th style="text-align: center;">Merk Sepatu</th>
+                                <th style="text-align: center;">Warna</th>
+				<th style="text-align: center;">Ukuran</th>
+                                <th style="text-align: center;">Jenis</th>
+					
+			</thead>
+			<tbody>
+				<tr ng-repeat="storeshoes in data">
+                                    <td style="text-align: center;">{{storeshoes.merk}}</td>
+                                    <td style="text-align: center;">{{storeshoes.warna}}</td>
+                                    <td style="text-align: center;">{{storeshoes.ukuran}}</td>
+                                    <td style="text-align: center;">{{storeshoes.jenis}}</td>
+                                </tr>
+			</tbody>	
+		</table>	
+	</div>
+</div>
+        
